@@ -1,0 +1,6 @@
+Code Pushing into GitHub
+-------------------------
+
+->git add .
+->git commit -m "Q#"
+->git push Leetcode main
